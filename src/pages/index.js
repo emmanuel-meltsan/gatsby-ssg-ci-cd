@@ -37,9 +37,9 @@ const BlogIndex = ({ data, location }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <H1>
+                  <h1>
                     PRACTICE DEPLYMENT
-                  </H1>
+                  </h1>
 
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
